@@ -13,4 +13,4 @@ Here I learn about:
 
 ## Live Preview
 
-https://adorable-brioche-7835ab.netlify.app/
+https://playful-palmier-8a324f.netlify.app/
